@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movement-auto", "movement-auto\movement-auto.csproj", "{3521EA03-FC49-4B62-84B1-A522EED9EC57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movement-auto-core", "movement-auto-core\movement-auto-core.csproj", "{CDF35715-7D70-47AF-A35E-42F61E1984F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movement-auto-data", "movement-auto-data\movement-auto-data.csproj", "{8CC91756-EC89-4EAF-9C40-A621F31F5E64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movement-auto-dtos", "movement-auto-dtos\movement-auto-dtos.csproj", "{2757B928-2EB2-44EE-A7F0-FD2EE078B443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movement-auto-utilities", "movement-auto-models\movement-auto-utilities.csproj", "{C63B7795-6184-4FE7-B34A-8118457025BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movement-auto-models", "movement-auto-utilities\movement-auto-models.csproj", "{634A513C-CAAB-4EC2-A318-A06E7C78EB41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3521EA03-FC49-4B62-84B1-A522EED9EC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3521EA03-FC49-4B62-84B1-A522EED9EC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3521EA03-FC49-4B62-84B1-A522EED9EC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3521EA03-FC49-4B62-84B1-A522EED9EC57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF35715-7D70-47AF-A35E-42F61E1984F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF35715-7D70-47AF-A35E-42F61E1984F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF35715-7D70-47AF-A35E-42F61E1984F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF35715-7D70-47AF-A35E-42F61E1984F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC91756-EC89-4EAF-9C40-A621F31F5E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC91756-EC89-4EAF-9C40-A621F31F5E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC91756-EC89-4EAF-9C40-A621F31F5E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC91756-EC89-4EAF-9C40-A621F31F5E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2757B928-2EB2-44EE-A7F0-FD2EE078B443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2757B928-2EB2-44EE-A7F0-FD2EE078B443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2757B928-2EB2-44EE-A7F0-FD2EE078B443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2757B928-2EB2-44EE-A7F0-FD2EE078B443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63B7795-6184-4FE7-B34A-8118457025BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63B7795-6184-4FE7-B34A-8118457025BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63B7795-6184-4FE7-B34A-8118457025BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63B7795-6184-4FE7-B34A-8118457025BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634A513C-CAAB-4EC2-A318-A06E7C78EB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634A513C-CAAB-4EC2-A318-A06E7C78EB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634A513C-CAAB-4EC2-A318-A06E7C78EB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634A513C-CAAB-4EC2-A318-A06E7C78EB41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF60A14-9795-482D-8647-967F2C4C754E}
+	EndGlobalSection
+EndGlobal
