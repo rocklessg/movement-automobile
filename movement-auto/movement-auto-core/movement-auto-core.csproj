@@ -5,4 +5,13 @@
     <RootNamespace>movement_auto_core</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\movement-auto-data\movement-auto-data.csproj" />
+    <ProjectReference Include="..\movement-auto-utilities\movement-auto-models.csproj" />
+  </ItemGroup>
+
 </Project>
