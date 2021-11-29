@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-models\bin\Debug\net5.0\movement-auto-utilities.deps.json
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-models\bin\Debug\net5.0\movement-auto-utilities.dll
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-models\bin\Debug\net5.0\ref\movement-auto-utilities.dll
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-models\bin\Debug\net5.0\movement-auto-utilities.pdb
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-models\obj\Debug\net5.0\movement-auto-utilities.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-models\obj\Debug\net5.0\movement-auto-utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-models\obj\Debug\net5.0\movement-auto-utilities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-models\obj\Debug\net5.0\movement-auto-utilities.AssemblyInfo.cs
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-models\obj\Debug\net5.0\movement-auto-utilities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-models\obj\Debug\net5.0\movement-auto-utilities.dll
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-models\obj\Debug\net5.0\ref\movement-auto-utilities.dll
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-models\obj\Debug\net5.0\movement-auto-utilities.pdb
