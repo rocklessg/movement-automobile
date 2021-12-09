@@ -15,3 +15,13 @@ C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\m
 C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\movement-auto-data.pdb
 C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\movement-auto-models.pdb
 C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\obj\Debug\net5.0\movement-auto-core.csproj.CopyComplete
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\movement-auto.Views.dll
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\movement-auto.Views.pdb
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\movement-auto.deps.json
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\movement-auto.runtimeconfig.json
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\movement-auto.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\movement-auto.exe
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\movement-auto.dll
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto-core\bin\Debug\net5.0\movement-auto.pdb

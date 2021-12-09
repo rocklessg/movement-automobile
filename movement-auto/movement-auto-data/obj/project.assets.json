@@ -255,6 +255,22 @@
           "lib/netcoreapp3.0/System.IO.Pipelines.dll": {}
         }
       },
+      "movement-auto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "movement-auto-models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/movement-auto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/movement-auto.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "movement-auto-models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -827,6 +843,11 @@
         "version.txt"
       ]
     },
+    "movement-auto/1.0.0": {
+      "type": "project",
+      "path": "../movement-auto/movement-auto.csproj",
+      "msbuildProject": "../movement-auto/movement-auto.csproj"
+    },
     "movement-auto-models/1.0.0": {
       "type": "project",
       "path": "../movement-auto-utilities/movement-auto-models.csproj",
@@ -839,6 +860,7 @@
       "Microsoft.EntityFrameworkCore >= 5.0.1",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.1",
+      "movement-auto >= 1.0.0",
       "movement-auto-models >= 1.0.0"
     ]
   },
@@ -871,6 +893,9 @@
           "projectReferences": {
             "C:\\Users\\hp\\Desktop\\Movement\\movement-auto\\movement-auto-utilities\\movement-auto-models.csproj": {
               "projectPath": "C:\\Users\\hp\\Desktop\\Movement\\movement-auto\\movement-auto-utilities\\movement-auto-models.csproj"
+            },
+            "C:\\Users\\hp\\Desktop\\Movement\\movement-auto\\movement-auto\\movement-auto.csproj": {
+              "projectPath": "C:\\Users\\hp\\Desktop\\Movement\\movement-auto\\movement-auto\\movement-auto.csproj"
             }
           }
         }
