@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\movement-auto-utilities\movement-auto-models.csproj" />
+    <ProjectReference Include="..\movement-auto\movement-auto.csproj" />
   </ItemGroup>
 
 </Project>

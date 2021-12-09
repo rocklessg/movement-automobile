@@ -5,4 +5,8 @@
     <RootNamespace>movement_auto</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\movement-auto-utilities\movement-auto-models.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -37,3 +37,5 @@ C:\Users\hp\Desktop\Movement\movement-auto\movement-auto\obj\Debug\net5.0\ref\mo
 C:\Users\hp\Desktop\Movement\movement-auto\movement-auto\obj\Debug\net5.0\movement-auto.pdb
 C:\Users\hp\Desktop\Movement\movement-auto\movement-auto\obj\Debug\net5.0\movement-auto.genruntimeconfig.cache
 C:\Users\hp\Desktop\Movement\movement-auto\movement-auto\obj\Debug\net5.0\movement-auto.csproj.CopyComplete
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto\bin\Debug\net5.0\movement-auto-models.dll
+C:\Users\hp\Desktop\Movement\movement-auto\movement-auto\bin\Debug\net5.0\movement-auto-models.pdb

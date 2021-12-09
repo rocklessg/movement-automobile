@@ -183,12 +183,29 @@
           "lib/netcoreapp3.0/System.IO.Pipelines.dll": {}
         }
       },
+      "movement-auto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "movement-auto-models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/movement-auto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/movement-auto.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "movement-auto-data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Microsoft.AspNetCore.Http.Features": "5.0.1",
           "Microsoft.EntityFrameworkCore": "5.0.1",
+          "movement-auto": "1.0.0",
           "movement-auto-models": "1.0.0"
         },
         "compile": {
@@ -611,6 +628,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "movement-auto/1.0.0": {
+      "type": "project",
+      "path": "../movement-auto/movement-auto.csproj",
+      "msbuildProject": "../movement-auto/movement-auto.csproj"
     },
     "movement-auto-data/1.0.0": {
       "type": "project",
