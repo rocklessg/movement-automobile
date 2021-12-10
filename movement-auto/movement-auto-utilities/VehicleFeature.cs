@@ -10,8 +10,10 @@ namespace movement_auto_models
     [Table("VehicleFeatures")]
     public class VehicleFeature
     {
-        public string Id { get; set; }
         public string VehicleId { get; set; }
         public string FeatureId  { get; set; }
+        public Vehicle Vehicle { get; set; }
+        public Feature Feature { get; set; }
+
     }
 }

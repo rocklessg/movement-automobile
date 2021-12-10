@@ -2,6 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 
 namespace movement_auto_models
 {
@@ -30,6 +31,12 @@ namespace movement_auto_models
         public DateTime UpdatetdAt { get; set; }
         public ICollection<Image> Images { get; set; }
         public ICollection<VehicleFeature> VehicleFeatures { get; set; }
+
+        public Vehicle()
+        {
+            VehicleFeatures = new Collection<VehicleFeature>();
+            Images = new Collection<Image>();
+        }
 
     }
 }

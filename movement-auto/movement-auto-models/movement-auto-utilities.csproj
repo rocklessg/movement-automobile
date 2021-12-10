@@ -5,4 +5,14 @@
     <RootNamespace>movement_auto_utilities</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\movement-auto-dtos\movement-auto-dtos.csproj" />
+    <ProjectReference Include="..\movement-auto-utilities\movement-auto-models.csproj" />
+    <ProjectReference Include="..\movement-auto\movement-auto.csproj" />
+  </ItemGroup>
+
 </Project>
